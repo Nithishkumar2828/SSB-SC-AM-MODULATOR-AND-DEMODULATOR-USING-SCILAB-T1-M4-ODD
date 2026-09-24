@@ -60,22 +60,22 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
-
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 32 45 PM" src="https://github.com/user-attachments/assets/af107cab-f518-41e8-a372-91aba903e11a" />
 
 ---
 
-## MODEL GRAPH
+## PROGRAM 
+<img width="1599" height="985" alt="WhatsApp Image 2026-09-24 at 3 33 02 PM" src="https://github.com/user-attachments/assets/67d70ac3-f2ba-4de9-928e-ef1cec0969ef" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 33 11 PM" src="https://github.com/user-attachments/assets/90d8211e-c6b7-4aad-9600-202a63209208" />
 
+## GRAPH
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 33 17 PM" src="https://github.com/user-attachments/assets/38bd3c9d-e102-47df-972d-8f36c8988f20" />
+
+## RESULT 
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 33 25 PM" src="https://github.com/user-attachments/assets/8c247f45-7626-4ed1-9a77-b802c59381f8" />
+
+## MARK ALLOCATION 
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 33 31 PM" src="https://github.com/user-attachments/assets/c9706c0e-ed95-4c61-aabc-b63c0725bd72" />
 
